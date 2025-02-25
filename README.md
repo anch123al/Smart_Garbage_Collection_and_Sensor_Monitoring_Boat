@@ -13,3 +13,6 @@ The Smart Garbage Collection and Sensor Monitoring Boat offers a modern solution
 
 # Circuit Diagram
 ![411344345-4e12a57b-c456-4e97-8586-fda5c30504aa](https://github.com/user-attachments/assets/7bb103f8-0938-4135-b7d9-22f0ca81ba58)
+
+# Web Interface
+![Readings](https://github.com/user-attachments/assets/30230926-2129-49c4-90dc-180ec5a7ccdd)
