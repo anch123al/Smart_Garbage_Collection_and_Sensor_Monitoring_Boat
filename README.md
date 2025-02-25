@@ -16,3 +16,7 @@ The Smart Garbage Collection and Sensor Monitoring Boat offers a modern solution
 
 # Web Interface
 ![Readings](https://github.com/user-attachments/assets/30230926-2129-49c4-90dc-180ec5a7ccdd)
+
+# Firebase Readings
+![Screenshot 2025-02-25 122556](https://github.com/user-attachments/assets/15f9441b-17a3-4244-9e2f-21e59c7240fb)
+![Screenshot 2025-02-25 122607](https://github.com/user-attachments/assets/975a307f-443f-4f77-972e-07a67b3a415e)
